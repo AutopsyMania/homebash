@@ -1,1 +1,1 @@
-alias sudoupd='sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get autoremove -y && sudo apt-get autoclean -y'
+alias sudoupd='sudo apt update && sudo apt upgrade -yf && sudo apt autoremove -y && sudo apt autoclean -y'
